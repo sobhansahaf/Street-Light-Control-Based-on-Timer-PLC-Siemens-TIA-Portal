@@ -1,0 +1,2 @@
+# Street-Light-Control-Based-on-Timer-PLC-Siemens-TIA-Portal
+This PLC program controls a set of street lights triggered by a vehicle-detection sensor.When a vehicle passes in front of the sensor,the lights switch on for 20seconds.After this initial ON period,the lights enter a 10-second blinking cycle,flashing once every 2 seconds.When the blinking sequence concludes,the street lights automatically turn off.
