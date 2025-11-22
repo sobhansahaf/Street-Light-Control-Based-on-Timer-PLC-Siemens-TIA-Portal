@@ -1,5 +1,5 @@
 
-# PLC-Controlled Street Lighting System
+# **PLC-Controlled Street Lighting System**
 
 This project implements a **PLC-based street lighting control system** that activates lights automatically when a vehicle is detected. The system enhances visibility while conserving energy by running a timed lighting sequence only when needed.
 
